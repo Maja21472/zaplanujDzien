@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="Obiad + test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Kolacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/posilki/KolacjaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="dalsza praca" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,6 +65,26 @@
       <recent name="com.posilki" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Jadlospis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.posilki.Jadlospis" />
+      <module name="zaplanujDzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.posilki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jadlospis" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -112,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694360529667</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Kolacja + test">
+      <created>1694361331669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694361331669</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dalsza praca">
+      <created>1694361491887</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694361491887</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,7 +151,9 @@
     <MESSAGE value="zaczynamy pisać kod dla generowania posiłków" />
     <MESSAGE value="test śniadanka" />
     <MESSAGE value="Obiad + test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Obiad + test" />
+    <MESSAGE value="Kolacja + test" />
+    <MESSAGE value="dalsza praca" />
+    <option name="LAST_COMMIT_MESSAGE" value="dalsza praca" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
