@@ -10,7 +10,7 @@ public class Kolacja {
     /**
      * Metoda zwracająca opis kolacji.
      *
-     * @return Opis śniadania w formacie "Twoje śniadanie: [baza]."
+     * @return Opis kolacji w formacie "Twoje śniadanie: [baza]."
      */
     public String getOpis() {
         Random random = new Random();
