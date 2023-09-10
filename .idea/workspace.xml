@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="test śniadanka">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" afterDir="false" />
+    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="Obiad + test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Kolacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/posilki/KolacjaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,9 @@
         <option name="url" value="https://github.com/Maja21472/zaplanujDzien.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VD8TR1r0bH9dIfmod7ei6kg8fT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -95,14 +98,29 @@
       <option name="project" value="LOCAL" />
       <updated>1694360121851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Obiad + test">
+      <created>1694360485015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694360485015</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Obiad + test">
+      <created>1694360529667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694360529667</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="początek pracy" />
     <MESSAGE value="zaczynamy pisać kod dla generowania posiłków" />
     <MESSAGE value="test śniadanka" />
-    <option name="LAST_COMMIT_MESSAGE" value="test śniadanka" />
+    <MESSAGE value="Obiad + test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Obiad + test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
