@@ -26,8 +26,4 @@ public class Sniadanie {
 
         return "Twoje śniadanie: " + wybranaBaza + ", " + wybranyOwoc + " i " + wybranyDodatek + ".";
     }
-    public static void main(String[] args) {
-        Sniadanie sniadanie = new Sniadanie();
-        System.out.println(sniadanie.getOpis());
-    }
 }

@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sport/Sport.java" afterDir="false" />
+    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="work">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/applicationStarter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/applicationStarter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Jadlospis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Jadlospis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Kolacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Kolacja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Sniadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Sniadanie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,72 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/zaplanujDzien/src/main/java/org/example/Main.java&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.Jadlospis">
+    <configuration name="Jadlospis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.posilki.Jadlospis" />
+      <module name="zaplanujDzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.posilki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.applicationStarter.Main" />
+      <module name="zaplanujDzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.applicationStarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObiadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaplanujDzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.posilki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.posilki" />
+      <option name="MAIN_CLASS_NAME" value="com.posilki.ObiadTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SniadanieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zaplanujDzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.posilki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.posilki" />
+      <option name="MAIN_CLASS_NAME" value="com.posilki.SniadanieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jadlospis" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ObiadTest" />
+        <item itemvalue="JUnit.SniadanieTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +108,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694359301655</updated>
     </task>
+    <task id="LOCAL-00001" summary="work">
+      <created>1694364648831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694364648831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -50,6 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="work" />
+    <option name="LAST_COMMIT_MESSAGE" value="work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -9,6 +9,9 @@ import com.sport.Sport;
  * Klasa łącząca wszystkie pozostałe klasy - ma za zadanie wygenerować nam posiłki na cały dzień i odpowiednią dla dnia tygodnia aktywność
  */
 public class Main {
+    /**
+     * generujemy ostateczny plan posiłki + aktywność
+     */
     public static void main(String[] args) {
         Sniadanie sniadanie = new Sniadanie();
         Obiad obiad = new Obiad();

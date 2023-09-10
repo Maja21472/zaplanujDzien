@@ -21,9 +21,4 @@ public class Kolacja {
 
         return "Twoja kolacja: " + wybranaBaza + ".";
     }
-
-    public static void main(String[] args) {
-        Kolacja kolacja = new Kolacja();
-        System.out.println(kolacja.getOpis());
-    }
 }

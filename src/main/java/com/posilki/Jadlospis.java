@@ -4,6 +4,9 @@ package com.posilki;
  * Klasa łącząca wszystkie posiłki
  */
 public class Jadlospis {
+    /**
+     * funkcja, która korzystając z wszystkich klas w pakiecie posilki wyświetla jadłospis
+     */
     public static void main(String[] args) {
         Sniadanie sniadanie = new Sniadanie();
         Obiad obiad = new Obiad();

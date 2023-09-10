@@ -26,9 +26,4 @@ public class Obiad {
 
         return "Twój obiad: " + wybraneBialko + ", " + wybraneWegle + " i " + wybranaSurowka + ".";
     }
-
-    public static void main(String[] args) {
-        Obiad obiad = new Obiad();
-        System.out.println(obiad.getOpis());
-    }
 }
