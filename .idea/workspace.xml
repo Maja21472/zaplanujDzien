@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="work">
+    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="praca nad kodem">
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-files/index-7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/applicationStarter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/applicationStarter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Jadlospis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Jadlospis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Kolacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Kolacja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/posilki/Sniadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Sniadanie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/zaplanujDzien/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Jadlospis">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Jadlospis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.posilki.Jadlospis" />
       <module name="zaplanujDzien" />
@@ -92,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Jadlospis" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Jadlospis" />
         <item itemvalue="JUnit.ObiadTest" />
         <item itemvalue="JUnit.SniadanieTest" />
       </list>
@@ -115,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694364648831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="praca nad kodem">
+      <created>1694365421777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694365421777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="praca nad kodem">
+      <created>1694365741520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694365741520</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work" />
-    <option name="LAST_COMMIT_MESSAGE" value="work" />
+    <MESSAGE value="praca nad kodem" />
+    <option name="LAST_COMMIT_MESSAGE" value="praca nad kodem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -25,15 +25,4 @@ public class Sport {
             return "Nieznana aktywność";
         }
     }
-
-    /**
-     * Metoda główna programu, która generuje aktywność sportową i wyświetla ją na konsoli.
-     *
-     * @param args Argumenty wiersza poleceń.
-     */
-    public static void main(String[] args) {
-        Sport sport = new Sport();
-        String wygenerowanaAktywnosc = sport.generujAktywnosc();
-        System.out.println("Dziś możesz zająć się: " + wygenerowanaAktywnosc);
-    }
 }
