@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="">
+    <list default="true" id="ec3448ef-aa98-4c41-8516-d1b1a860a716" name="Changes" comment="zaczynamy pisać kod dla generowania posiłków">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/posilki/Obiad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/posilki/SniadanieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +15,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2VD8TR1r0bH9dIfmod7ei6kg8fT" />
@@ -24,6 +40,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/zaplanujDzien/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -36,14 +55,34 @@
       <option name="presentableId" value="Default" />
       <updated>1694359301655</updated>
     </task>
+    <task id="LOCAL-00001" summary="początek pracy">
+      <created>1694359553988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694359553988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zaczynamy pisać kod dla generowania posiłków">
+      <created>1694359765386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694359765386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="początek pracy" />
+    <MESSAGE value="zaczynamy pisać kod dla generowania posiłków" />
+    <option name="LAST_COMMIT_MESSAGE" value="zaczynamy pisać kod dla generowania posiłków" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
+          <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
